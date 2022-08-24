@@ -1,4 +1,8 @@
-# <img align="center" src="assets/img/banner/logo.svg"/>
+<p align="center">
+    <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
+</p>
+
+-------
 
 <p align="left">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=GREEN&style=for-the-badge"/>
